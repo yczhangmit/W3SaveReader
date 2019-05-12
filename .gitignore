@@ -1,0 +1,8 @@
+.idea
+
+*.user
+
+[Oo]bj
+[Bb]in
+packages/
+build
